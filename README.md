@@ -1,4 +1,4 @@
-# Softmax_ReLU_visualization
+# Visualization of Feedforward Neural Network Decision Boundaries Formation during Training Process
 
 Visualization of Neural Network Training Process and Decision Boundaries
 Project Description
